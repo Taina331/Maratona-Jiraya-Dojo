@@ -1,10 +1,11 @@
 package com.dojo.projeto02;
 
 import java.text.DecimalFormat;
-import java.util.Date;
 
 public class Aula02 {
+
     public static void main(String[] args) {
+
         String nome = "Maria";
         String endereco = "rua dos poetas";
         double salario = 2000;
