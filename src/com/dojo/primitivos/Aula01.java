@@ -1,4 +1,4 @@
-package com.dojo.projeto01;
+package com.dojo.primitivos;
 
 public class Aula01 {
 
